@@ -1,5 +1,5 @@
 # Automated-messages
-This python script helps user to send messages on whatsapp to the mentioned user multiple times at once automatically.
+This python script helps user to send messages on **whatsapp** to the mentioned user multiple times at once automatically.
 
 ## Setup
 To use this app you have to set up selenuim for python.
@@ -9,7 +9,7 @@ I used selenium for chrome to test the code on chrome browser. One can use the d
 driver = webdriver.Chrome()
 ```
 #### Selenium Setup
-To download the selenium chromedriver, clic on [link to selenium!](https://chromedriver.chromium.org/downloads)
+To download the selenium chromedriver, click on [selenium chromedriver](https://chromedriver.chromium.org/downloads)
 
 Install the python library for selenium:
 ###### Linux
@@ -32,7 +32,6 @@ pip install selenium
 * Enter the number of times you want to send the message
 * press **enter**
 
-*If you find any bug in the code, do let me know*
-contact me here:
-**email** - *ishangupta004@gmail.com*
-**twitter** - *@ishangupta04*
+*If you find any bug in the code, do let me know*    
+    
+contact me here: **email** - *ishangupta004@gmail.com* or connect with me on [twitter](https://twitter.com/ishangupta04)
