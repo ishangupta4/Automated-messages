@@ -6,7 +6,7 @@ To use this app you have to set up selenuim for python.
 I used selenium for chrome to test the code on chrome browser. One can use the different browser by changing the driver. For example to use Firefox:
 
 ```python
-driver = webdriver.Chrome()
+driver = webdriver.Firefox()
 ```
 #### Selenium Setup
 To download the selenium chromedriver, click on [selenium chromedriver](https://chromedriver.chromium.org/downloads)
